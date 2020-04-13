@@ -6,6 +6,6 @@
 
 ---
 
-## 進階的範例－一元三次公式解
+## 進階的範例－[i的起源](https://en.wikipedia.org/wiki/Complex_number#History)
 
 一元三次解的公式，也就是sqrt(-1)的始祖，就是一種這類型的問題。
